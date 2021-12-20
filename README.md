@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssberezin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently relearning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : skype studhel.pro
 
